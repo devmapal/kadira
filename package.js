@@ -1,8 +1,8 @@
 Package.describe({
   "summary": "Performance Monitoring for Meteor",
   "version": "2.30.4",
-  "git": "https://github.com/meteorhacks/kadira.git",
-  "name": "meteorhacks:kadira"
+  "git": "https://github.com/devmapal/kadira.git",
+  "name": "devmapal:kadira"
 });
 
 var npmModules = {
