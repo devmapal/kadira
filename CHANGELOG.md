@@ -1,5 +1,9 @@
 # Changelog
 
+### v2.30.6
+
+* Fix log `[object Object]` issue. See [meteor#10078](https://github.com/meteor/meteor/issues/10078).Thx @zodern.
+
 ### v2.30.4
 
 * Use `Object.create(null)` rather than object initializer notation when initializing objects to store metric data.
